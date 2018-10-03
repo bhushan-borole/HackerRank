@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/prime-checker/problem
+
 import static java.lang.System.*;
 class Prime {
     void checkPrime(int... numbers) {  

@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-string-compare/problem
+
     public static String getSmallestAndLargest(String s, int k) {
         String [] arr = new String[s.length()-k+1];
 

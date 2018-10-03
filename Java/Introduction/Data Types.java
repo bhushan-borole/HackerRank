@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-datatypes/problem
+
 import java.util.Scanner;
 
 class Solution{

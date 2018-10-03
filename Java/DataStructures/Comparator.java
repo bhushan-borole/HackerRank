@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-comparator/problem
+
 class Checker implements Comparator<Player>{
     @Override
     public int compare(Player p1, Player p2){

@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/simple-addition-varargs/problem
+
 class Add{
     void add(int... x){
         int sum = 0;

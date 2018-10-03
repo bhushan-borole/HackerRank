@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-annotations/problem
+
 import java.lang.annotation.*;
 import java.lang.reflect.*;
 import java.util.*;

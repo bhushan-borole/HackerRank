@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-end-of-file/problem
+
 import java.io.BufferedInputStream;
 import java.util.Scanner;
 

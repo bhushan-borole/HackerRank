@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-singleton/problem
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-static-initializer-block/problem
+
 static int B,H;
     static boolean flag = false;
     static {

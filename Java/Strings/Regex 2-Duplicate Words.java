@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/duplicate-word/problem
+
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

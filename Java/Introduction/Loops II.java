@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-loops/problem
+
 import java.util.*;
 
 class Solution{

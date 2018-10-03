@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/pattern-syntax-checker/problem
+
 import java.util.Scanner;
 import java.util.regex.*;
 

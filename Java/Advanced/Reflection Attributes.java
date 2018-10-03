@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-reflection-attributes/problem
+
 class Solution{
     public static void main(String[] args){
         Class student = Student.class;

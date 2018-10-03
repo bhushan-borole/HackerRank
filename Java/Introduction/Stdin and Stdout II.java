@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-stdin-stdout/problem
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

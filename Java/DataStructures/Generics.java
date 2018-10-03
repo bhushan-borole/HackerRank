@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-generics/problem
+
 class Printer
 {
     public <T> void printArray(T[] t){
