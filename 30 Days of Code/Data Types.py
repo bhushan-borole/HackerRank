@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/30-data-types/problem
 
 # Declare second integer, double, and String variables.
 i1,d1,s1 = 0,0.0,''

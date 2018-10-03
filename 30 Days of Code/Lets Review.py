@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/30-review-loop/problem
+
 n = int(input())
 for i in range(n):
     l = list(input())

@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/30-loops/problem
 #!/bin/python3
 
 import math

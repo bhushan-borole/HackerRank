@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/security-involution/problem
+
 n = int(input())
 l = list(map(int, input().split()))
 bool = False

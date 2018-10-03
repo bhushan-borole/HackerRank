@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/s10-standard-deviation/problems
+
 import math
 n = int(input())
 x = [int(item) for item in input().split()]

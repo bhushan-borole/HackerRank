@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/s10-quartiles/problem
+
 def median(nums):
     if len(nums)%2 == 0:
         return int(sum(nums[len(nums)//2-1:len(nums)//2+1])/2)

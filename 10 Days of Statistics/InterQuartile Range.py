@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/s10-interquartile-range/problem
+
 #Without numpy
 def median(nums):
     if len(nums)%2 == 0:

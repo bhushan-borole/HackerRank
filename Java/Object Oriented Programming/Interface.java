@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-interface/problem
+
 class MyCalculator implements AdvancedArithmetic{
     public int divisor_sum(int n){
         int sum = 0;

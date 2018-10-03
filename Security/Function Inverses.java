@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/security-inverse-of-a-function/problem
+
 import java.util.*;
 
 

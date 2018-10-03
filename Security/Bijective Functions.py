@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/security-bijective-functions/problem
+
 def bijective(n, list):
     if n in list:
         return "YES"

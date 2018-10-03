@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-iterator/problem
+
 import java.util.*;
 public class Main{
 	

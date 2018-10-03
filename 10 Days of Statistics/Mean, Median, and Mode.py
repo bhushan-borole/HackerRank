@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/s10-basic-statistics/problem
+
 import numpy as np
 from scipy import stats
 
