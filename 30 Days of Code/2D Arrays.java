@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/java-2d-array/problem
+// https://www.hackerrank.com/challenges/30-2d-arrays/problem
 
 import java.io.*;
 import java.util.*;
@@ -27,8 +27,8 @@ public class Solution
                             + a[i-2][j-1]
                             + a[i-2][j-2];
                         if (sum > maxSum) {
-				maxSum = sum;
-			}
+            				maxSum = sum;
+            			}
                     }
                 }
             }
