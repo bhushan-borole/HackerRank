@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/asian-population/problem
+--https://www.hackerrank.com/challenges/asian-population/problem
 
 SELECT SUM(CITY.POPULATION) 
 FROM CITY, COUNTRY
